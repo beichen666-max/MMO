@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj": {}
+    "D:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj": {}
   },
   "projects": {
-    "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj": {
+    "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj",
+        "projectPath": "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\obj\\",
+        "outputPath": "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "F:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj": {
+    "D:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj",
+        "projectUniqueName": "D:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj",
         "projectName": "Game-Server",
-        "projectPath": "F:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj",
+        "projectPath": "D:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\obj\\",
+        "outputPath": "D:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj": {
-                "projectPath": "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj"
+              "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj": {
+                "projectPath": "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj"
               }
             }
           }

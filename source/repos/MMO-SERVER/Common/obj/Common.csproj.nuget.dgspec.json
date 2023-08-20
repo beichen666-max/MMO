@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj": {}
+    "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj": {}
   },
   "projects": {
-    "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj": {
+    "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj",
+        "projectPath": "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\obj\\",
+        "outputPath": "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

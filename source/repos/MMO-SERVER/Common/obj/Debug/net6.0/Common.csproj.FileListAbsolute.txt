@@ -1,0 +1,12 @@
+D:\MMO\source\repos\MMO-SERVER\Common\bin\Debug\net6.0\Common.deps.json
+D:\MMO\source\repos\MMO-SERVER\Common\bin\Debug\net6.0\Common.dll
+D:\MMO\source\repos\MMO-SERVER\Common\bin\Debug\net6.0\Common.pdb
+D:\MMO\source\repos\MMO-SERVER\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\MMO\source\repos\MMO-SERVER\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\MMO\source\repos\MMO-SERVER\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\MMO\source\repos\MMO-SERVER\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\MMO\source\repos\MMO-SERVER\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\MMO\source\repos\MMO-SERVER\Common\obj\Debug\net6.0\Common.dll
+D:\MMO\source\repos\MMO-SERVER\Common\obj\Debug\net6.0\refint\Common.dll
+D:\MMO\source\repos\MMO-SERVER\Common\obj\Debug\net6.0\Common.pdb
+D:\MMO\source\repos\MMO-SERVER\Common\obj\Debug\net6.0\ref\Common.dll

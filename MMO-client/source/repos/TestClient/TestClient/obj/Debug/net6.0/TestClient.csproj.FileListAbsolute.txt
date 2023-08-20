@@ -1,0 +1,15 @@
+F:\MMO\source\repos\TestClient\TestClient\bin\Debug\net6.0\TestClient.exe
+F:\MMO\source\repos\TestClient\TestClient\bin\Debug\net6.0\TestClient.deps.json
+F:\MMO\source\repos\TestClient\TestClient\bin\Debug\net6.0\TestClient.runtimeconfig.json
+F:\MMO\source\repos\TestClient\TestClient\bin\Debug\net6.0\TestClient.dll
+F:\MMO\source\repos\TestClient\TestClient\bin\Debug\net6.0\TestClient.pdb
+F:\MMO\source\repos\TestClient\TestClient\obj\Debug\net6.0\TestClient.csproj.AssemblyReference.cache
+F:\MMO\source\repos\TestClient\TestClient\obj\Debug\net6.0\TestClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\MMO\source\repos\TestClient\TestClient\obj\Debug\net6.0\TestClient.AssemblyInfoInputs.cache
+F:\MMO\source\repos\TestClient\TestClient\obj\Debug\net6.0\TestClient.AssemblyInfo.cs
+F:\MMO\source\repos\TestClient\TestClient\obj\Debug\net6.0\TestClient.csproj.CoreCompileInputs.cache
+F:\MMO\source\repos\TestClient\TestClient\obj\Debug\net6.0\TestClient.dll
+F:\MMO\source\repos\TestClient\TestClient\obj\Debug\net6.0\refint\TestClient.dll
+F:\MMO\source\repos\TestClient\TestClient\obj\Debug\net6.0\TestClient.pdb
+F:\MMO\source\repos\TestClient\TestClient\obj\Debug\net6.0\TestClient.genruntimeconfig.cache
+F:\MMO\source\repos\TestClient\TestClient\obj\Debug\net6.0\ref\TestClient.dll

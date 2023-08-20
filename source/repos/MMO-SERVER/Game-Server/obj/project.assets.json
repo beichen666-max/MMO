@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj",
+      "projectUniqueName": "D:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj",
       "projectName": "Game-Server",
-      "projectPath": "F:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj",
+      "projectPath": "D:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\Game-Server.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\obj\\",
+      "outputPath": "D:\\MMO\\source\\repos\\MMO-SERVER\\Game-Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj": {
-              "projectPath": "F:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj"
+            "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj": {
+              "projectPath": "D:\\MMO\\source\\repos\\MMO-SERVER\\Common\\Common.csproj"
             }
           }
         }
