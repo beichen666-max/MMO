@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Network;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -32,11 +34,11 @@ namespace GameServer.Network
             lfd.Start();//启动解码器
         }
 
-        private void OnDataReceived(object? sender, [byte] buffer){
+        private void OnDataReceived(object? sender, byte[] buffer){
             // string txt = Encoding.UTF8.GetString (buffer);
             //Console.WriteLine(txt);
-            // Proto. Vector3 v=Proto. Vector3.Parser.ParseFrom (buffer);
-            // Console.WriteLine("x="+v.X+",y="+v.Y+".z="+v.Z);
+            //Proto.Vector3 v = Proto.Vector3.Parser.ParseFrom (buffer);
+            //Console.WriteLine("x="+v.X+",y="+v.Y+".z="+v.Z);
 
             dataReceivedCallback?.Invoke(this, buffer);
 

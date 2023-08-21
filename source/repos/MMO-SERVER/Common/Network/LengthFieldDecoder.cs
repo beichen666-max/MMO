@@ -30,6 +30,8 @@ namespace Network
         ///	一次性接收数据的最大字节，默认1Mb
         /// </summary>
         private int mSize = 1024 * 1024;
+        public Action<object?, byte> dataReceivedHandler;
+        public Action disconnectedHandler;
 
         //成功收到消息的委托事件
         public delegate void OnReceived(byte[] data);

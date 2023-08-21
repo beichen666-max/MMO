@@ -1,0 +1,17 @@
+D:\MMO\source\repos\MMO-SERVER\NetClient\bin\Debug\net6.0\NetClient.exe
+D:\MMO\source\repos\MMO-SERVER\NetClient\bin\Debug\net6.0\NetClient.deps.json
+D:\MMO\source\repos\MMO-SERVER\NetClient\bin\Debug\net6.0\NetClient.runtimeconfig.json
+D:\MMO\source\repos\MMO-SERVER\NetClient\bin\Debug\net6.0\NetClient.dll
+D:\MMO\source\repos\MMO-SERVER\NetClient\bin\Debug\net6.0\NetClient.pdb
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\NetClient.csproj.AssemblyReference.cache
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\NetClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\NetClient.AssemblyInfoInputs.cache
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\NetClient.AssemblyInfo.cs
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\NetClient.csproj.CoreCompileInputs.cache
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\NetClient.dll
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\refint\NetClient.dll
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\NetClient.pdb
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\NetClient.genruntimeconfig.cache
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\ref\NetClient.dll
+D:\MMO\source\repos\MMO-SERVER\NetClient\bin\Debug\net6.0\Google.Protobuf.dll
+D:\MMO\source\repos\MMO-SERVER\NetClient\obj\Debug\net6.0\NetClient.csproj.CopyComplete
