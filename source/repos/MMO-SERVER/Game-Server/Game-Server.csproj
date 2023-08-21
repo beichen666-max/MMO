@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <PackageReference Include="Google.Protobuf" Version="3.24.1" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
   </ItemGroup>
 
 </Project>
