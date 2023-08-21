@@ -24,6 +24,11 @@ namespace TestClient
             SendMessage(socket,body);
             SendMessage(socket, Encoding.UTF8.GetBytes("劝君更尽一杯酒"));
             Console.ReadKey ();
+            while (true){
+                Console.WriteLine("请输入要发送的内容")
+                string txt = Conslole.ReadLine();
+                SendMessage(socket, Encoding.UTF8.GetBytes(txt));
+            }
         }
 
         //socket发送字节数组
