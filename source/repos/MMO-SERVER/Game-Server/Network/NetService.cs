@@ -1,4 +1,5 @@
 ﻿using Network;
+using Common.Network;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,6 +41,7 @@ namespace GameServer.Network
         {
             Proto.Vector3 v = Proto.Vector3.Parser.ParseFrom(data);
             Console.WriteLine("x=" + v.X + ",y=" + v.Y + ",z=" + v.Z);
+            MessageRouter.Instance.AddMessage(sender,v);
         }
     }
 }
