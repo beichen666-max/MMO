@@ -1,4 +1,4 @@
-﻿using Network;
+﻿// using Network;
 using Common.Network;
 using System;
 using System.Collections.Generic;
@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
+using Proto;
 
 namespace GameServer.Network
 {
@@ -39,9 +40,12 @@ namespace GameServer.Network
 
         private static void OnDataReceived(NetConnection sender, byte[] data)
         {
-            Proto.Vector3 v = Proto.Vector3.Parser.ParseFrom(data);
-            Console.WriteLine("x=" + v.X + ",y=" + v.Y + ",z=" + v.Z);
-            MessageRouter.Instance.AddMessage(sender,v);
+            Proto.Package package = Proto.Package.Parser.ParseFrom(data);
+            MessageRouter.Instance.AddMessage(sender,package);
+
+            // Proto.Vector3 v = Proto.Vector3.Parser.ParseFrom(data);
+            // Console.WriteLine("x=" + v.X + ",y=" + v.Y + ",z=" + v.Z);
+            // MessageRouter.Instance.AddMessage(sender,v);
         }
     }
 }

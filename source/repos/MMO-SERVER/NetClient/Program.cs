@@ -2,6 +2,7 @@
 using System.Net;
 using System.Text;
 using System;
+// using Proto;
 
 //socket发送字节数组
 static void SendMessage(Socket socket, byte[] body)
@@ -34,3 +35,24 @@ while (true)
     SendMessage(socket, Encoding.UTF8.GetBytes(txt));
 }
 
+// Proto.Vector3 vector = new Proto.Vector3();
+// vector.X = 7;
+// vector.Y = 8;
+// vector.Z = 9;
+
+// 用户登录消息
+Proto.Package package = new Proto.Package();
+package.Request = new Proto.Request();
+package.Request.UserLogin = new Proto.UserLoginRequest();
+package.Request.UserLogin.Username = "xiazm";
+package.Request.UserLogin.Password = "123456";
+
+// package.Response = new Proto.Response();
+
+MemoryStream rawOutput = new MemoryStream();
+CodedOutputStream output = new CodedOutputStream(rawOutput);
+package.WriteTo(output);
+output.Flush();
+SendMessage(socket, rawOutput.ToArray());
+
+Console.ReadLine();

@@ -2,6 +2,7 @@
 using System.Net;
 using System.Net.Sockets;  // ?
 using System.Text;
+using Proto;
 
 namespace Game_Server
 {
@@ -13,6 +14,8 @@ namespace Game_Server
             NetService netService = new NetService();
             netService.Init(32510);
             netService.Start();
+
+            MessageRouter.Instance.Start(4);
         }
     }
 }
